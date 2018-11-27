@@ -1,0 +1,40 @@
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\csc.exe
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\vbc.exe
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\MasterApplication.dll.config
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\MasterApplication.dll
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\MasterApplication.pdb
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\obj\Debug\MasterApplication.csprojResolveAssemblyReference.cache
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\obj\Debug\MasterApplication.dll
+C:\Users\Cadde-Web\Desktop\MasterApplication\MasterApplication\obj\Debug\MasterApplication.pdb
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\csc.exe
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\vbc.exe
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\MasterApplication.dll.config
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\MasterApplication.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\MasterApplication.pdb
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\obj\Debug\MasterApplication.csprojResolveAssemblyReference.cache
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\obj\Debug\MasterApplication.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\Asp.Net-MasterPage-Example\MasterApplication\obj\Debug\MasterApplication.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <ID>1</ID>
+    <Titre>Ouvrage 1</Titre>
+    <ISBN>777-7-7777</ISBN>
+    <Prix>660.0000</Prix>
+  </Table>
+  <Table>
+    <ID>2</ID>
+    <Titre>Ouvrage 2</Titre>
+    <ISBN>777-888-88</ISBN>
+    <Prix>1000.0000</Prix>
+  </Table>
+  <Table>
+    <ID>3</ID>
+    <Titre>Ouvrage 3</Titre>
+    <ISBN>666-22-111</ISBN>
+    <Prix>100.0000</Prix>
+  </Table>
+</NewDataSet>

@@ -1,0 +1,68 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\ApplicationInsights.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\MasterPagesWebApp.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\MasterPagesWebApp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\MasterPagesWebApp.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.Extensions.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\System.IO.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\System.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\System.Threading.Tasks.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.Extensions.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\System.IO.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\System.Runtime.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\bin\System.Threading.Tasks.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\obj\Debug\MasterPagesWebApp.csproj.App.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\obj\Debug\MasterPagesWebApp.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\obj\Debug\MasterPagesWebApp.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\OAMK ASP.NET\MasterPagesWebApp\MasterPagesWebApp\obj\Debug\MasterPagesWebApp.pdb
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\ApplicationInsights.config
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\MasterPagesWebApp.dll.config
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\MasterPagesWebApp.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\MasterPagesWebApp.pdb
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\System.IO.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\System.Runtime.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\System.Threading.Tasks.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\System.IO.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\System.Runtime.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\bin\System.Threading.Tasks.xml
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\obj\Debug\MasterPagesWebApp.csproj.App.config
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\obj\Debug\MasterPagesWebApp.csprojResolveAssemblyReference.cache
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\obj\Debug\MasterPagesWebApp.dll
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\master-page-asp\MasterPagesWebApp\obj\Debug\MasterPagesWebApp.pdb

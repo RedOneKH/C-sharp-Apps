@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TP4.Master.cs" Inherits="MasterPagesWebApp.TP4" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="container">
+    <form id="form1" runat="server">
+        <div class="row">
+
+        </div>
+
+    <header>
+        <asp:Menu ID="Menu1" runat="server">
+            <Items>
+                <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Default" Value="Default Page"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Contenu1.aspx" Text="Contenu 1" Value="Contenu1 Page"></asp:MenuItem>
+                <asp:MenuItem NavigateUrl="~/Contenu2.aspx" Text="Contenu 2" Value="Contenu2 Page"></asp:MenuItem>
+            </Items>
+        </asp:Menu>
+    </header>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

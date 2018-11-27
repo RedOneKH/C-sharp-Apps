@@ -1,0 +1,9 @@
+c:\users\kaito\documents\visual studio 2013\Projects\Atelier2\Atelier2\bin\Debug\Atelier2.exe.config
+c:\users\kaito\documents\visual studio 2013\Projects\Atelier2\Atelier2\bin\Debug\Atelier2.exe
+c:\users\kaito\documents\visual studio 2013\Projects\Atelier2\Atelier2\bin\Debug\Atelier2.pdb
+c:\users\kaito\documents\visual studio 2013\Projects\Atelier2\Atelier2\obj\Debug\Atelier2.csprojResolveAssemblyReference.cache
+c:\users\kaito\documents\visual studio 2013\Projects\Atelier2\Atelier2\obj\Debug\Atelier2.Main.resources
+c:\users\kaito\documents\visual studio 2013\Projects\Atelier2\Atelier2\obj\Debug\Atelier2.Properties.Resources.resources
+c:\users\kaito\documents\visual studio 2013\Projects\Atelier2\Atelier2\obj\Debug\Atelier2.csproj.GenerateResource.Cache
+c:\users\kaito\documents\visual studio 2013\Projects\Atelier2\Atelier2\obj\Debug\Atelier2.exe
+c:\users\kaito\documents\visual studio 2013\Projects\Atelier2\Atelier2\obj\Debug\Atelier2.pdb

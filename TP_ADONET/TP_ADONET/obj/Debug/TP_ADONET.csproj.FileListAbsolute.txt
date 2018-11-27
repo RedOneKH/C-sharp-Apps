@@ -1,0 +1,9 @@
+c:\users\kaito\documents\visual studio 2013\Projects\TP_ADONET\TP_ADONET\bin\Debug\TP_ADONET.exe.config
+c:\users\kaito\documents\visual studio 2013\Projects\TP_ADONET\TP_ADONET\bin\Debug\TP_ADONET.exe
+c:\users\kaito\documents\visual studio 2013\Projects\TP_ADONET\TP_ADONET\bin\Debug\TP_ADONET.pdb
+c:\users\kaito\documents\visual studio 2013\Projects\TP_ADONET\TP_ADONET\obj\Debug\TP_ADONET.csprojResolveAssemblyReference.cache
+c:\users\kaito\documents\visual studio 2013\Projects\TP_ADONET\TP_ADONET\obj\Debug\TP_ADONET.Form1.resources
+c:\users\kaito\documents\visual studio 2013\Projects\TP_ADONET\TP_ADONET\obj\Debug\TP_ADONET.Properties.Resources.resources
+c:\users\kaito\documents\visual studio 2013\Projects\TP_ADONET\TP_ADONET\obj\Debug\TP_ADONET.csproj.GenerateResource.Cache
+c:\users\kaito\documents\visual studio 2013\Projects\TP_ADONET\TP_ADONET\obj\Debug\TP_ADONET.exe
+c:\users\kaito\documents\visual studio 2013\Projects\TP_ADONET\TP_ADONET\obj\Debug\TP_ADONET.pdb

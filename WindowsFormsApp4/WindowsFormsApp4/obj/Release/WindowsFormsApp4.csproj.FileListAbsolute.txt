@@ -1,0 +1,9 @@
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe.config
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.exe
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\WindowsFormsApp4\WindowsFormsApp4\bin\Release\WindowsFormsApp4.pdb
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Form1.resources
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Main.resources
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.exe
+C:\Users\KaiTo\Documents\Visual Studio 2013\Projects\WindowsFormsApp4\WindowsFormsApp4\obj\Release\WindowsFormsApp4.pdb

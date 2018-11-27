@@ -1,0 +1,6 @@
+c:\users\kaito\documents\visual studio 2013\Projects\Exercice2\Exercice2\bin\Debug\Exercice2.exe.config
+c:\users\kaito\documents\visual studio 2013\Projects\Exercice2\Exercice2\bin\Debug\Exercice2.exe
+c:\users\kaito\documents\visual studio 2013\Projects\Exercice2\Exercice2\bin\Debug\Exercice2.pdb
+c:\users\kaito\documents\visual studio 2013\Projects\Exercice2\Exercice2\obj\Debug\Exercice2.csprojResolveAssemblyReference.cache
+c:\users\kaito\documents\visual studio 2013\Projects\Exercice2\Exercice2\obj\Debug\Exercice2.exe
+c:\users\kaito\documents\visual studio 2013\Projects\Exercice2\Exercice2\obj\Debug\Exercice2.pdb
